@@ -1,7 +1,5 @@
 package ua.com.bpgdev.httpserver.entity;
 
-import java.net.HttpURLConnection;
-
 public class Response {
     private String responseContent;
     private String responseContentType;
